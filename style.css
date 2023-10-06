@@ -1,0 +1,47 @@
+
+
+.OMORI{
+    border:  1px solid #B388B3;
+    width: 20rem;
+    height: 20rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center ;  
+    padding-bottom: 1.5rem;
+}
+
+.PERSONAGENS{
+    border:  1px solid #8093F1;
+    width: 20rem;
+    height: 20rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center ;  
+    padding-bottom: 1.5rem;
+}
+
+
+.HISTORIA{
+    border:  1px solid #72DDF7;
+    width: 20rem;
+    height: 20rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center ;  
+    padding-bottom: 1.5rem;
+}
+
+
+.CRIADOR{
+    border:  1px solid #F7AEF8;
+    width: 20rem;
+    height: 20rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center ;  
+    padding-bottom: 1.5rem;
+}
